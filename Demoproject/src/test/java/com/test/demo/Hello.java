@@ -27,5 +27,18 @@ public class Hello {
 		System.out.println("Actual and Expected not matched");
 
                                }
+	@Test
+	public void testmethod4 (){
+				System.out.println("Hello world 4");
+			                  }
+	@Test
+	public void testmethod5 (){
+				System.out.println("Hello world 5");
+			                  }
+	@Test
+	public void testmethod6 (){
+				System.out.println("Hello world 6");
+			                  }
+	
 	
 }
