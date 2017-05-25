@@ -22,7 +22,7 @@ public class Hello {
 	@Test
 	public void testmethod3 (){
 		String actual = "QTP";
-		String expected = "QTP";
+		String expected = "QTP1";
 		Assert.assertEquals(actual, expected);
 		System.out.println("Actual and Expected not matched");
 
@@ -42,7 +42,7 @@ public class Hello {
 	
 	@Test
 	public void testmethod7 (){
-				System.out.println("Hello world 7");
+				System.out.println("Hello world 90909");
 			                  }
 }
 
