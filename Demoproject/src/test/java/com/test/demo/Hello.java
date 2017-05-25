@@ -16,7 +16,7 @@ public class Hello {
 		String actual = "Selenium";
 		String expected = "Selenium";
 		Assert.assertEquals(actual, expected);
-		System.out.println("Actual and Expected matched");
+		System.out.println("Actual and Expected matched .. . ");
 			                   }
 	
 	@Test
