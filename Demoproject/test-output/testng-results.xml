@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" ignored="0" total="3" passed="2">
+<testng-results skipped="0" failed="1" ignored="0" total="7" passed="6">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="58" started-at="2017-05-23T20:56:25Z" finished-at="2017-05-23T20:56:25Z">
+  <suite name="Default suite" duration-ms="65" started-at="2017-05-24T19:34:13Z" finished-at="2017-05-24T19:34:14Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="58" started-at="2017-05-23T20:56:25Z" finished-at="2017-05-23T20:56:25Z">
+    <test name="Default test" duration-ms="65" started-at="2017-05-24T19:34:13Z" finished-at="2017-05-24T19:34:14Z">
       <class name="com.test.demo.Hello">
-        <test-method status="PASS" signature="testmethod1()[pri:0, instance:com.test.demo.Hello@16e5f3e]" name="testmethod1" duration-ms="11" started-at="2017-05-23T16:56:25Z" finished-at="2017-05-23T16:56:25Z">
+        <test-method status="PASS" signature="testmethod1()[pri:0, instance:com.test.demo.Hello@12cdb01]" name="testmethod1" duration-ms="12" started-at="2017-05-24T15:34:13Z" finished-at="2017-05-24T15:34:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testmethod1 -->
-        <test-method status="PASS" signature="testmethod2()[pri:0, instance:com.test.demo.Hello@16e5f3e]" name="testmethod2" duration-ms="3" started-at="2017-05-23T16:56:25Z" finished-at="2017-05-23T16:56:25Z">
+        <test-method status="PASS" signature="testmethod2()[pri:0, instance:com.test.demo.Hello@12cdb01]" name="testmethod2" duration-ms="4" started-at="2017-05-24T15:34:13Z" finished-at="2017-05-24T15:34:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testmethod2 -->
-        <test-method status="FAIL" signature="testmethod3()[pri:0, instance:com.test.demo.Hello@16e5f3e]" name="testmethod3" duration-ms="2" started-at="2017-05-23T16:56:25Z" finished-at="2017-05-23T16:56:25Z">
+        <test-method status="FAIL" signature="testmethod3()[pri:0, instance:com.test.demo.Hello@12cdb01]" name="testmethod3" duration-ms="2" started-at="2017-05-24T15:34:13Z" finished-at="2017-05-24T15:34:13Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [QTP] but found [Selenium]]]>
@@ -60,6 +60,22 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testmethod3 -->
+        <test-method status="PASS" signature="testmethod4()[pri:0, instance:com.test.demo.Hello@12cdb01]" name="testmethod4" duration-ms="2" started-at="2017-05-24T15:34:13Z" finished-at="2017-05-24T15:34:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod4 -->
+        <test-method status="PASS" signature="testmethod5()[pri:0, instance:com.test.demo.Hello@12cdb01]" name="testmethod5" duration-ms="2" started-at="2017-05-24T15:34:13Z" finished-at="2017-05-24T15:34:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod5 -->
+        <test-method status="PASS" signature="testmethod6()[pri:0, instance:com.test.demo.Hello@12cdb01]" name="testmethod6" duration-ms="1" started-at="2017-05-24T15:34:13Z" finished-at="2017-05-24T15:34:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod6 -->
+        <test-method status="PASS" signature="testmethod7()[pri:0, instance:com.test.demo.Hello@12cdb01]" name="testmethod7" duration-ms="1" started-at="2017-05-24T15:34:13Z" finished-at="2017-05-24T15:34:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod7 -->
       </class> <!-- com.test.demo.Hello -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->

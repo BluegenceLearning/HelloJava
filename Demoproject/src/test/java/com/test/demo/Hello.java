@@ -21,7 +21,7 @@ public class Hello {
 	
 	@Test
 	public void testmethod3 (){
-		String actual = "Selenium";
+		String actual = "QTP";
 		String expected = "QTP";
 		Assert.assertEquals(actual, expected);
 		System.out.println("Actual and Expected not matched");
