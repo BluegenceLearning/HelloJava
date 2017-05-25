@@ -37,11 +37,11 @@ public class Hello {
 			                  }
 	@Test
 	public void testmethod6 (){
-				System.out.println("Hello world 6");
+				System.out.println("Hello world JIRA");
 			                  }
 	@Test
 	public void testmethod7 (){
-				System.out.println("Hello world 7");
+				System.out.println("Hello world  - Selenium");
 			                  }
 	
 	
