@@ -44,5 +44,9 @@ public class Hello {
 				System.out.println("Hello world  - Selenium");
 			                  }
 	
-	
+	@Test
+	public void testmethod8 (){
+				System.out.println("Automation");
+			                  }
+		
 }
