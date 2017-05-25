@@ -1,48 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="66" started-at="2017-05-25T02:43:23Z" finished-at="2017-05-25T02:43:23Z">
+  <suite name="Default suite" duration-ms="55" started-at="2017-05-25T02:58:13Z" finished-at="2017-05-25T02:58:13Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="66" started-at="2017-05-25T02:43:23Z" finished-at="2017-05-25T02:43:23Z">
+    <test name="Default test" duration-ms="55" started-at="2017-05-25T02:58:13Z" finished-at="2017-05-25T02:58:13Z">
       <class name="com.test.demo.Hello">
-        <test-method status="PASS" signature="testmethod1()[pri:0, instance:com.test.demo.Hello@121ddb8]" name="testmethod1" duration-ms="11" started-at="2017-05-24T22:43:23Z" finished-at="2017-05-24T22:43:23Z">
+        <test-method status="PASS" signature="testmethod1()[pri:0, instance:com.test.demo.Hello@13cdb70]" name="testmethod1" duration-ms="11" started-at="2017-05-24T22:58:13Z" finished-at="2017-05-24T22:58:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testmethod1 -->
-        <test-method status="PASS" signature="testmethod2()[pri:0, instance:com.test.demo.Hello@121ddb8]" name="testmethod2" duration-ms="3" started-at="2017-05-24T22:43:23Z" finished-at="2017-05-24T22:43:23Z">
+        <test-method status="PASS" signature="testmethod2()[pri:0, instance:com.test.demo.Hello@13cdb70]" name="testmethod2" duration-ms="3" started-at="2017-05-24T22:58:13Z" finished-at="2017-05-24T22:58:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testmethod2 -->
-        <test-method status="PASS" signature="testmethod3()[pri:0, instance:com.test.demo.Hello@121ddb8]" name="testmethod3" duration-ms="2" started-at="2017-05-24T22:43:23Z" finished-at="2017-05-24T22:43:23Z">
+        <test-method status="PASS" signature="testmethod3()[pri:0, instance:com.test.demo.Hello@13cdb70]" name="testmethod3" duration-ms="2" started-at="2017-05-24T22:58:13Z" finished-at="2017-05-24T22:58:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testmethod3 -->
-        <test-method status="PASS" signature="testmethod4()[pri:0, instance:com.test.demo.Hello@121ddb8]" name="testmethod4" duration-ms="2" started-at="2017-05-24T22:43:23Z" finished-at="2017-05-24T22:43:23Z">
+        <test-method status="PASS" signature="testmethod4()[pri:0, instance:com.test.demo.Hello@13cdb70]" name="testmethod4" duration-ms="3" started-at="2017-05-24T22:58:13Z" finished-at="2017-05-24T22:58:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testmethod4 -->
-        <test-method status="PASS" signature="testmethod5()[pri:0, instance:com.test.demo.Hello@121ddb8]" name="testmethod5" duration-ms="2" started-at="2017-05-24T22:43:23Z" finished-at="2017-05-24T22:43:23Z">
+        <test-method status="PASS" signature="testmethod5()[pri:0, instance:com.test.demo.Hello@13cdb70]" name="testmethod5" duration-ms="1" started-at="2017-05-24T22:58:13Z" finished-at="2017-05-24T22:58:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testmethod5 -->
-        <test-method status="PASS" signature="testmethod6()[pri:0, instance:com.test.demo.Hello@121ddb8]" name="testmethod6" duration-ms="2" started-at="2017-05-24T22:43:23Z" finished-at="2017-05-24T22:43:23Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testmethod6 -->
-        <test-method status="PASS" signature="testmethod7()[pri:0, instance:com.test.demo.Hello@121ddb8]" name="testmethod7" duration-ms="2" started-at="2017-05-24T22:43:23Z" finished-at="2017-05-24T22:43:23Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testmethod7 -->
-        <test-method status="PASS" signature="testmethod8()[pri:0, instance:com.test.demo.Hello@121ddb8]" name="testmethod8" duration-ms="1" started-at="2017-05-24T22:43:23Z" finished-at="2017-05-24T22:43:23Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testmethod8 -->
-        <test-method status="PASS" signature="testmethod9()[pri:0, instance:com.test.demo.Hello@121ddb8]" name="testmethod9" duration-ms="1" started-at="2017-05-24T22:43:23Z" finished-at="2017-05-24T22:43:23Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testmethod9 -->
       </class> <!-- com.test.demo.Hello -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->

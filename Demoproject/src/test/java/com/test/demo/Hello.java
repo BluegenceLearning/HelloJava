@@ -35,22 +35,5 @@ public class Hello {
 	public void testmethod5 (){
 				System.out.println("Hello world 5");
 			                  }
-	@Test
-	public void testmethod6 (){
-				System.out.println("Hello world JIRA");
-			                  }
-	@Test
-	public void testmethod7 (){
-				System.out.println("Hello world  - Selenium");
-			                  }
-	
-	@Test
-	public void testmethod8 (){
-				System.out.println("Automation");
-			                  }
-	@Test
-	public void testmethod9 (){
-				System.out.println("Automation Demo");
-			                  }
-		
+
 }
