@@ -6,7 +6,7 @@ import org.testng.annotations.Test;
 public class Hello {
 
 	@Test
-	public void testmethod1 (){
+	public void LogintoApplication(){
 				System.out.println("Abhishek verma");
 			                  }
 
@@ -49,6 +49,11 @@ public class Hello {
 	public void testmethod8 (){
 				System.out.println("Method 8");
 			                  }
+	@Test
+	public void testmethod9 (){
+				System.out.println("Method 9");
+			                  }
+	
 }
 
 
