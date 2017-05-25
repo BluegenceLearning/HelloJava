@@ -38,5 +38,11 @@ public class Hello {
 	@Test
 	public void testmethod6 (){
 				System.out.println("Hello world 6");
+                           	}
+	
+	@Test
+	public void testmethod7 (){
+				System.out.println("Hello world 7");
 			                  }
 }
+

@@ -1,36 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="54" started-at="2017-05-25T03:22:05Z" finished-at="2017-05-25T03:22:05Z">
+  <suite name="Default suite" duration-ms="73" started-at="2017-05-25T03:27:11Z" finished-at="2017-05-25T03:27:11Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="54" started-at="2017-05-25T03:22:05Z" finished-at="2017-05-25T03:22:05Z">
+    <test name="Default test" duration-ms="73" started-at="2017-05-25T03:27:11Z" finished-at="2017-05-25T03:27:11Z">
       <class name="com.test.demo.Hello">
-        <test-method status="PASS" signature="testmethod1()[pri:0, instance:com.test.demo.Hello@13cdb70]" name="testmethod1" duration-ms="10" started-at="2017-05-24T23:22:05Z" finished-at="2017-05-24T23:22:05Z">
+        <test-method status="PASS" signature="testmethod1()[pri:0, instance:com.test.demo.Hello@12cdb01]" name="testmethod1" duration-ms="11" started-at="2017-05-24T23:27:11Z" finished-at="2017-05-24T23:27:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testmethod1 -->
-        <test-method status="PASS" signature="testmethod2()[pri:0, instance:com.test.demo.Hello@13cdb70]" name="testmethod2" duration-ms="3" started-at="2017-05-24T23:22:05Z" finished-at="2017-05-24T23:22:05Z">
+        <test-method status="PASS" signature="testmethod2()[pri:0, instance:com.test.demo.Hello@12cdb01]" name="testmethod2" duration-ms="14" started-at="2017-05-24T23:27:11Z" finished-at="2017-05-24T23:27:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testmethod2 -->
-        <test-method status="PASS" signature="testmethod3()[pri:0, instance:com.test.demo.Hello@13cdb70]" name="testmethod3" duration-ms="2" started-at="2017-05-24T23:22:05Z" finished-at="2017-05-24T23:22:05Z">
+        <test-method status="PASS" signature="testmethod3()[pri:0, instance:com.test.demo.Hello@12cdb01]" name="testmethod3" duration-ms="2" started-at="2017-05-24T23:27:11Z" finished-at="2017-05-24T23:27:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testmethod3 -->
-        <test-method status="PASS" signature="testmethod4()[pri:0, instance:com.test.demo.Hello@13cdb70]" name="testmethod4" duration-ms="1" started-at="2017-05-24T23:22:05Z" finished-at="2017-05-24T23:22:05Z">
+        <test-method status="PASS" signature="testmethod4()[pri:0, instance:com.test.demo.Hello@12cdb01]" name="testmethod4" duration-ms="2" started-at="2017-05-24T23:27:11Z" finished-at="2017-05-24T23:27:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testmethod4 -->
-        <test-method status="PASS" signature="testmethod5()[pri:0, instance:com.test.demo.Hello@13cdb70]" name="testmethod5" duration-ms="1" started-at="2017-05-24T23:22:05Z" finished-at="2017-05-24T23:22:05Z">
+        <test-method status="PASS" signature="testmethod5()[pri:0, instance:com.test.demo.Hello@12cdb01]" name="testmethod5" duration-ms="1" started-at="2017-05-24T23:27:11Z" finished-at="2017-05-24T23:27:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testmethod5 -->
-        <test-method status="PASS" signature="testmethod6()[pri:0, instance:com.test.demo.Hello@13cdb70]" name="testmethod6" duration-ms="2" started-at="2017-05-24T23:22:05Z" finished-at="2017-05-24T23:22:05Z">
+        <test-method status="PASS" signature="testmethod6()[pri:0, instance:com.test.demo.Hello@12cdb01]" name="testmethod6" duration-ms="2" started-at="2017-05-24T23:27:11Z" finished-at="2017-05-24T23:27:11Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testmethod6 -->
+        <test-method status="PASS" signature="testmethod7()[pri:0, instance:com.test.demo.Hello@12cdb01]" name="testmethod7" duration-ms="2" started-at="2017-05-24T23:27:11Z" finished-at="2017-05-24T23:27:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testmethod7 -->
       </class> <!-- com.test.demo.Hello -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
