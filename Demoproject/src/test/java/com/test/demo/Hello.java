@@ -35,5 +35,8 @@ public class Hello {
 	public void testmethod5 (){
 				System.out.println("Hello world 5");
 			                  }
-
+	@Test
+	public void testmethod6 (){
+				System.out.println("Hello world 6");
+			                  }
 }
