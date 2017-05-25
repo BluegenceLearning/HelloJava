@@ -48,5 +48,9 @@ public class Hello {
 	public void testmethod8 (){
 				System.out.println("Automation");
 			                  }
+	@Test
+	public void testmethod9 (){
+				System.out.println("Automation Demo");
+			                  }
 		
 }
